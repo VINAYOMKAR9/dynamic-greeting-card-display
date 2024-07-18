@@ -1,0 +1,29 @@
+.main{
+    padding: 26px;
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-top: 250px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-radius: 70%;
+    margin-left: 2%;    
+    margin-right: 2%;    
+    background-color: chocolate;
+}
+.Card{
+    
+    width: 40%;
+    padding: 15px;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 50px;
+    text-align: center;
+    text-decoration: dotted;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    color: aliceblue;
+    background-color: rgb(99, 48, 9);
+}
+
+        /* {
+    font-weight: bolder  ;
+    overflow: hidden;
+    } */
